@@ -10,7 +10,7 @@ from pathlib import Path
 # --- API Keys Configuration ---
 OPENAI_API_KEY = "fake"  # Using fake key as per your example
 CUSTOM_BASE_URL = "https://reduced-ginnifer-nihar-cca6cebf.koyeb.app/v1"
-HF_TOKEN = "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"
+HF_TOKEN = ""
 
 def initialize_openai_client() -> Optional[OpenAI]:
     """Initializes and returns an OpenAI client with custom base URL."""
