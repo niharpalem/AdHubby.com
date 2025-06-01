@@ -56,16 +56,18 @@ pip install streamlit openai pillow requests pathlib
 ```
 
 3. **Configure API Keys**
+-- we can get the CUSTOM BASE URL from (https://app.koyeb.com/services)
 ```bash
 # Set environment variables
-export OPENAI_API_KEY="your_openai_key"
-export CUSTOM_BASE_URL="https://your-custom-llm-endpoint.com/v1"
+export OPENAI_API_KEY="fake" #leave it fake as it is not needed
+
+export CUSTOM_BASE_URL="https://your-custom-llm-endpoint.com/v1" 
 export HF_TOKEN="your_hugging_face_token"
 ```
 
 Or modify the constants in the code:
 ```python
-OPENAI_API_KEY = "your_actual_key"
+OPENAI_API_KEY = "fake" #leave it fake as it is not needed
 CUSTOM_BASE_URL = "https://your-custom-endpoint.com/v1"
 HF_TOKEN = "your_hugging_face_token"
 ```
@@ -129,7 +131,7 @@ Navigate to `http://localhost:8501` in your browser.
 ```
 adhubby/
 ├── app.py                 # Main Streamlit application
-├── AdHubby_logo_2.png    # Application logo
+├── AdHubby_logo.png    # Application logo
 ├── README.md             # This file
 └── requirements.txt      # Python dependencies
 ```
