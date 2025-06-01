@@ -228,6 +228,15 @@ For support, email support@adhubby.com or create an issue in this repository.
 - [ ] Custom brand template uploads
 
 ## 👥 Team
+## Contributors
+
+| Name | LinkedIn |
+|------|----------|
+|  | Tiffany [![LinkedIn](https://www.linkedin.com/in/prtiffany/) |
+| Ed Chin | [![LinkedIn](https://www.linkedin.com/in/edchin1/) |
+| Sindhu | [![LinkedIn](https://www.linkedin.com/in/sindhu-gudala/) |
+| Nihar | [![LinkedIn](https://www.linkedin.com/in/nihar-palem-1b955a183/) |
+
 
 Built with ❤️ by the AdHubby team
 
