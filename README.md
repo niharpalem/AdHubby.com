@@ -130,7 +130,7 @@ Navigate to `http://localhost:8501` in your browser.
 ```
 adhubby/
 ├── app.py                 # Main Streamlit application
-├── AdHubby_logo_2.png    # Application logo
+├── AdHubby_logo.png    # Application logo
 ├── README.md             # This file
 └── requirements.txt      # Python dependencies
 ```
